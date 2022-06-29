@@ -2,7 +2,8 @@
 import math
 
 
-root = [1,2,2,3,4,4,3]
+# root = [1,2,2,null,3,null,3]
+
 # print(root)
 # print(len(root))
 # print(root[6])
